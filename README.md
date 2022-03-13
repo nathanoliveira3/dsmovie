@@ -9,7 +9,7 @@ https://dsmovie-nathan.netlify.app/
 
 DSMovie é uma aplicação full stack web construída durante a Semana Spring-React, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pǵina de filmes, onde é possível realizar a avialição dos mesmos atribuindo notas.
+A aplicação consiste em uma página de filmes, onde é possível realizar a avaliação dos mesmos atribuindo notas.
 
 # Tecnologias utilizadas
 ## Back end
